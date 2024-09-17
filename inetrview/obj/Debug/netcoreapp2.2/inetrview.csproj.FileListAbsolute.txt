@@ -1,0 +1,11 @@
+C:\Users\SIR PIQUII\source\repos\inetrview\bin\Debug\netcoreapp2.2\inetrview.deps.json
+C:\Users\SIR PIQUII\source\repos\inetrview\bin\Debug\netcoreapp2.2\inetrview.runtimeconfig.json
+C:\Users\SIR PIQUII\source\repos\inetrview\bin\Debug\netcoreapp2.2\inetrview.runtimeconfig.dev.json
+C:\Users\SIR PIQUII\source\repos\inetrview\bin\Debug\netcoreapp2.2\inetrview.dll
+C:\Users\SIR PIQUII\source\repos\inetrview\bin\Debug\netcoreapp2.2\inetrview.pdb
+C:\Users\SIR PIQUII\source\repos\inetrview\obj\Debug\netcoreapp2.2\inetrview.csprojAssemblyReference.cache
+C:\Users\SIR PIQUII\source\repos\inetrview\obj\Debug\netcoreapp2.2\inetrview.csproj.CoreCompileInputs.cache
+C:\Users\SIR PIQUII\source\repos\inetrview\obj\Debug\netcoreapp2.2\inetrview.AssemblyInfoInputs.cache
+C:\Users\SIR PIQUII\source\repos\inetrview\obj\Debug\netcoreapp2.2\inetrview.AssemblyInfo.cs
+C:\Users\SIR PIQUII\source\repos\inetrview\obj\Debug\netcoreapp2.2\inetrview.dll
+C:\Users\SIR PIQUII\source\repos\inetrview\obj\Debug\netcoreapp2.2\inetrview.pdb
